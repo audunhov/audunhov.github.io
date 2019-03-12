@@ -1,7 +1,8 @@
-# Blogg
+# Bloggen min :))
+
 Hei bloggen!
 
-## Dagens outfit!!
-I dag går jeg med denne! :heart:
+I dag går jeg med denne her :heart:
 
+**Dagens outfit!!**
 ![alt text](https://www.darkknightarmoury.com/images/Category/medium/1308.png)
