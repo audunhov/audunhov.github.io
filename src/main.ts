@@ -1,4 +1,6 @@
 import './assets/main.css'
+import '@fontsource/noto-sans'
+import '@fontsource-variable/jetbrains-mono'
 
 import { createApp } from 'vue'
 import { createPinia } from 'pinia'
